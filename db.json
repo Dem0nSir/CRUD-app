@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "nissanSIR",
+      "email": "nissan21@gmail.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ethtigregch2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "aayushma",
+      "email": "aayushma@gmail.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Kid_boy.jpg"
+    },
+    {
+      "id": "817161aa-6832-49d3-87d9-b31906c9a66f",
+      "name": "demon",
+      "email": "demon@gmail.com",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Crying_boy.jpg"
+    }
+  ]
+}
